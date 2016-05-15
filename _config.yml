@@ -1,0 +1,28 @@
+name: Global Pacific
+favicon: null
+layout_spectrum: 0.662831190507859
+typography_spectrum: 0.7974559748545289
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2930034277960658
+  lightness: 0.9961917083710432
+  saturation: 0.3016164058353752
+  rhythmicContrast: 0.21626457897946239
+purpose: []
